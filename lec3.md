@@ -1,8 +1,3 @@
-Here is the **Lecture 3 Summary** formatted for your "Complete Questions" exam.
-
-This lecture is heavy on definitions and coverage hierarchies. Pay close attention to the **Input Space Partitioning criteria** (Base Choice vs. Pair-Wise) and the **Data Flow definitions** (Def vs. Use), as these are perfect for "fill-in-the-blank" questions.
-
-***
 
 # 📘 Lecture 3: Advanced Coverage Criteria & Input Space Partitioning
 

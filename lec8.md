@@ -1,10 +1,3 @@
-You are absolutely right. Looking back at the raw slides for Lecture 8, there was a lot of specific detail regarding **Exploratory Testing methods**, **Charters**, and **specific LLM applications** that I condensed too much.
-
-Since your exam is 70% "complete questions," you need the specific definitions for **every** type of exploratory testing mentioned.
-
-Here is the **Improved, Detailed Lecture 8 Summary**.
-
-***
 
 # 📘 Lecture 8: Assisting Exploratory Testing with AI (Detailed)
 

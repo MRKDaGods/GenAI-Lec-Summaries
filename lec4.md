@@ -1,8 +1,3 @@
-Here is the **Lecture 4 Summary**.
-
-This lecture focuses heavily on **Frameworks** and **Decision Making** (When to automate vs. when not to). Expect the "Case Study" questions to come from the "Frameworks" section (e.g., "Which framework uses Excel files?").
-
-***
 
 # 📘 Lecture 4: Automated Testing & Frameworks
 

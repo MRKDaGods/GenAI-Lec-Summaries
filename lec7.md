@@ -1,8 +1,3 @@
-Here is the **Lecture 7 Summary**.
-
-This lecture focuses on **Data Generation** (using specific standards like XSD/OpenAPI) and **Exploratory Testing** strategies.
-
-***
 
 # 📘 Lecture 7: AI for Data Creation & Exploratory Testing
 

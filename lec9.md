@@ -1,8 +1,3 @@
-You are absolutely right again. Lecture 9 is technically dense, and for a "Complete Question" exam, you need the **exact definitions of the metrics** (BLEU vs. ROUGE vs. BERTScore) and the **specific distance calculations** (Cosine vs. Euclidean).
-
-Here is the **Improved, Detailed Lecture 9 Summary**.
-
-***
 
 # 📘 Lecture 9: RAG vs. Fine-Tuning (Deep Dive)
 

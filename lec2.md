@@ -1,8 +1,3 @@
-Here is the **Lecture 2 Summary** (covering both Part I and Part II).
-
-This lecture introduced many specific testing types and technical coverage definitions. These are prime candidates for **"Identify the Term"** questions.
-
-***
 
 # 📘 Lecture 2: Testing Life Cycle & Coverage Criteria
 

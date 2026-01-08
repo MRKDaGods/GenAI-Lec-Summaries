@@ -1,8 +1,3 @@
-Based on the lecture slides you provided, here is the **Lecture 1 Summary** formatted specifically for your "Complete Questions" (Short Answer) exam.
-
-I have stripped away the fluff and focused only on the **Key Terms** and **Decision Triggers** your professor looks for.
-
-***
 
 # 📘 Lecture 1: Software Testing Concepts & Basics
 

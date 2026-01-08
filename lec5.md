@@ -1,8 +1,3 @@
-Here is the **Lecture 5 Summary**.
-
-This lecture is very specific about **Risks**, **Prompt Engineering Tactics**, and **LLM Concepts**. These are extremely high-yield topics for "fill-in-the-blank" questions.
-
-***
 
 # 📘 Lecture 5: Generative AI for Software Testing
 

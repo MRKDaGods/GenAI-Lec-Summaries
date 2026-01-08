@@ -1,8 +1,3 @@
-Here is the **Lecture 6 Summary**.
-
-This lecture introduces conceptual models (Imagination vs. Implementation) and specific heuristics (SFDIPOT). These are **high-probability targets** for your exam.
-
-***
 
 # 📘 Lecture 6: AI-Assisted Test Planning & Models
 
